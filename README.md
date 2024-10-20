@@ -13,7 +13,7 @@ e-mail: kamau@my365.bellevue.edu
   [Web-Scraping](kau0713.github.io/Web-Scraping/)
   
 ### Project API Integration & Data Visualization
-  [API-Integration-and-Data-Visualization](kau0713.github.io/API-Integration-and-Data-Visualization/)
+  [API-Integration-and-Data-Visualization](https://kau0713.github.io/API-Integration-and-Data-Visualization/)
 
 ### Project SQLite-Database
   [SQLite-Database](kau0713.github.io/SQLite-Database/)
