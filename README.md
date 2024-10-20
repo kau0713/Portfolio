@@ -1,7 +1,13 @@
 # Portfolio 
 
 
-## Projects  
+## About
+10 different projects, each showcasing a different skill set.
+
+## Contact
+e-mail: kamau@my365.bellevue.edu
+
+## Work/Projects  
 
 ### Project Web Scraping
   [Web-Scraping](kau0713.github.io/Web-Scraping/)
