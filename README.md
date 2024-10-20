@@ -10,13 +10,13 @@ e-mail: kamau@my365.bellevue.edu
 ## Work/Projects  
 
 ### Project Web Scraping
-  [Web-Scraping](kau0713.github.io/Web-Scraping/)
+  [Web-Scraping](https://kau0713.github.io/Web-Scraping/)
   
 ### Project API Integration & Data Visualization
   [API-Integration-and-Data-Visualization](https://kau0713.github.io/API-Integration-and-Data-Visualization/)
 
 ### Project SQLite-Database
-  [SQLite-Database](kau0713.github.io/SQLite-Database/)
+  [SQLite-Database](https://kau0713.github.io/SQLite-Database/)
 
 ### Project Exploratory_Analysis_EDA
   [Exploratory Analysis](kau0713.github.io/Exploratory_Analysis_EDA/)
