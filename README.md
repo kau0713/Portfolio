@@ -2,7 +2,7 @@
 
 
 ## About
-10 different projects, each showcasing a different skill set.
+I’m Ka Man, a graduate student at Bellevue University, driven by a passion for exploring data and uncovering meaningful insights. With a focus on blending creativity and technical skills, I enjoy working on impactful projects that solve real-world problems while continuously advancing my expertise in data analysis and visualization.
 
 ## Contact
 e-mail: kamau@my365.bellevue.edu
