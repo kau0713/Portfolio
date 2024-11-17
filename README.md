@@ -37,4 +37,4 @@ e-mail: kamau@my365.bellevue.edu
   [Credit_default_analysis](https://kau0713.github.io/credit_default_analysis/)
 
 ### Project Pollution and Happiness Analysis
-  [CPollution and Happiness Analysis](https://kau0713.github.io/pollution_happiness_analysis/)
+  [Pollution and Happiness Analysis](https://kau0713.github.io/pollution_happiness_analysis/)
