@@ -30,7 +30,8 @@ e-mail: kamau@my365.bellevue.edu
 ### Project Housing Analysis
   [Boston Hosuing Analysis](https://kau0713.github.io/Boston-Housing-Analysis/)
 
-### Project Holder 1 
+### Project pregnancies_glucose_analysis
+  [Pregnancies and Glucose Level Analysis](https://kau0713.github.io/pregnancies_glucose_analysis/)
 
 ### Project Holder 2
 
